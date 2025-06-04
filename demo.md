@@ -2,8 +2,6 @@ This is the first line. Used for the pull request test.
 
 This is the second line!
 
-And the third.
+And the third, from the master.
 
 And this is a fourth line. This is it!
-
-Right now I'm in the middle of working on this file.
