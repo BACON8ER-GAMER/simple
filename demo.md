@@ -4,4 +4,4 @@ This is the second line!
 
 And the third.
 
-And this is a fourth line. This is it! I mean it!
+And this is a fourth line on the master branch.
